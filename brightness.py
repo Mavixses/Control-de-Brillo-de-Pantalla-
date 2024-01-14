@@ -16,7 +16,7 @@ if len(sys.argv) != 2:
     sys.exit(1)
 
 if brightness < 0.1 or brightness > 1:
-    print(RED + "ERROR: los niveles de brillo son entre 1 y 10 ")
+    print(RED + "ERROR: min 1 | max 10 ")
     sys.exit(1)
 
 
