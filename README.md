@@ -1,1 +1,1 @@
-# Control-de-Brillo-de-Pantalla-
+# Control-de-Brillo-de-Pantalla
